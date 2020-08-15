@@ -1,0 +1,4 @@
+sacrebleu==1.4.3
+spacy
+tqdm
+tensorflow
