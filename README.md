@@ -15,7 +15,6 @@ Then, to evaluate simply run:
 ```
 sbatch evaluate_on_slurm.sh
 ```
-It will output the final BLEU score.
 
 We are using a specific python environment. Make sure to have access to /project/cq-training-1/project2/submissions/team07/low_env
 and /project/cq-training-1/project2/submissions/team07/model since these paths are hard codded.
