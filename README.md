@@ -1,9 +1,8 @@
 # Low Resource Machine Translation
 
+### [[Paper]](https://github.com/MaximeDaigle/Low-Resource-Machine-Translation/blob/master/Low%20Resource%20Machine%20Translation.pdf)
 
 ![embedding](https://github.com/MaximeDaigle/Low-Resource-Machine-Translation/blob/master/nmt_embedding.png)
-
-[[Paper]](https://github.com/MaximeDaigle/Low-Resource-Machine-Translation/blob/master/Low%20Resource%20Machine%20Translation.pdf)
 
 # To evaluate
 Please modify evaluate_on_slurm.sh so that the evaluator.py arguments point to the proper source and target files:
